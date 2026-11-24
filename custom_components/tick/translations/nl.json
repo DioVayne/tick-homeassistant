@@ -50,13 +50,13 @@
       "step": {
         "user": {
           "title": "Trigger toevoegen",
-          "description": "Een trigger is een moment dat je in Tick bij een taak kiest, zoals \"Zon komt thuis\" of \"De zon gaat onder\". Geef hem een naam zoals je hem in Tick wilt lezen, en kies wat Home Assistant in de gaten houdt. Op het volgende scherm kies je de toestand (bijvoorbeeld Thuis of Aan) en, als je wilt, voorwaarden. Laat je het leeg, dan gaat de trigger alleen af met zijn knop of vanuit je eigen automatisering.",
+          "description": "Een trigger is een moment dat je in Tick bij een taak kiest, zoals \"Sam komt thuis\" of \"De zon gaat onder\". Geef hem een naam zoals je hem in Tick wilt lezen, en kies wat Home Assistant in de gaten houdt. Op het volgende scherm kies je de toestand (bijvoorbeeld Thuis of Aan) en, als je wilt, voorwaarden. Laat je het leeg, dan gaat de trigger alleen af met zijn knop of vanuit je eigen automatisering.",
           "data": {
             "name": "Naam in Tick",
             "entity_id": "In de gaten houden"
           },
           "data_description": {
-            "name": "Kort en duidelijk: wie of wat, en wat er gebeurt. Bijvoorbeeld \"Zon komt thuis\", \"Zon gaat onder\", \"Badkamerlicht aan\".",
+            "name": "Kort en duidelijk: wie of wat, en wat er gebeurt. Bijvoorbeeld \"Sam komt thuis\", \"Zon gaat onder\", \"Badkamerlicht aan\".",
             "entity_id": "Een persoon, de zon, een lamp, een deursensor… Mag leeg. Hierna: de toestand."
           }
         },

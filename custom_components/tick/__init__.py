@@ -1,7 +1,7 @@
 """Tick: triggers from Home Assistant that you pick for a task in Tick.
 
-You add triggers here with a clear name ("Zon comes home", "Sunset"), each optionally watching one entity
-for a state ("person.zon" becomes "home"), with optional conditions (only after it stayed so for a while,
+You add triggers here with a clear name ("Sam comes home", "Sunset"), each optionally watching one entity
+for a state ("person.sam" becomes "home"), with optional conditions (only after it stayed so for a while,
 only between two times). The integration sends the list of names to Tick. In Tick you pick one or more of
 them for a task; the first one that goes off gives one notification.
 """

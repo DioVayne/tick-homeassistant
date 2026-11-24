@@ -50,13 +50,13 @@
       "step": {
         "user": {
           "title": "Add trigger",
-          "description": "A trigger is a moment you can pick for a task in Tick, like \"Zon comes home\" or \"The sun sets\". Give it a name as you want to read it in Tick, then choose what Home Assistant watches. On the next screen you choose the state (for example Home or On) and, if you like, conditions. Leave the entity empty for a trigger that only goes off from its button or your own automation.",
+          "description": "A trigger is a moment you can pick for a task in Tick, like \"Sam comes home\" or \"The sun sets\". Give it a name as you want to read it in Tick, then choose what Home Assistant watches. On the next screen you choose the state (for example Home or On) and, if you like, conditions. Leave the entity empty for a trigger that only goes off from its button or your own automation.",
           "data": {
             "name": "Name in Tick",
             "entity_id": "Watch"
           },
           "data_description": {
-            "name": "Short and clear: who or what, and what happens. For example \"Zon comes home\", \"Sunset\", \"Bathroom light on\".",
+            "name": "Short and clear: who or what, and what happens. For example \"Sam comes home\", \"Sunset\", \"Bathroom light on\".",
             "entity_id": "A person, the sun, a light, a door sensor… Optional. Next: the state."
           }
         },
