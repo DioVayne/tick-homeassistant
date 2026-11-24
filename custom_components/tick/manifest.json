@@ -1,0 +1,14 @@
+{
+  "domain": "tick",
+  "name": "Tick",
+  "codeowners": [
+    "@DioVayne"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/DioVayne/tick-homeassistant",
+  "integration_type": "service",
+  "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/DioVayne/tick-homeassistant/issues",
+  "requirements": [],
+  "version": "0.2.1"
+}
