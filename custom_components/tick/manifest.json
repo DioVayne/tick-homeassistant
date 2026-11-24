@@ -1,6 +1,9 @@
 {
   "domain": "tick",
   "name": "Tick",
+  "categories": [
+    "productivity_information.calendars_todos"
+  ],
   "codeowners": [
     "@DioVayne"
   ],
@@ -10,5 +13,5 @@
   "iot_class": "cloud_push",
   "issue_tracker": "https://github.com/DioVayne/tick-homeassistant/issues",
   "requirements": [],
-  "version": "0.2.1"
+  "version": "0.2.2"
 }
